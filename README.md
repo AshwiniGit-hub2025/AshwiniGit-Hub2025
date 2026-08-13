@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I'm Ashwini Pandey
+💻 Aspiring Java Full Stack Developer
+
+🎓 B.Tech Information Technology Student
+☕ Learning Java & Spring Boot
+🌐 Interested in Full Stack Web Development
+🧠 Practicing DSA & Problem Solving
+🗄️ Working with SQL & Databases
+🚀 Building projects and improving every day
 
 
 # 💻 Tech Stack:
