@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Ashwini Pandey
 
-<!--
-**AshwiniGit-hub2025/AshwiniGit-Hub2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student
+☕ Learning Java & Spring Boot
+🌐 Interested in Full Stack Web Development
+🧠 Practicing DSA & Problem Solving
+🗄️ Working with SQL & Databases
+🚀 Building projects and improving every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech Stack
+
+Languages: Java, SQL, HTML, CSS, JavaScript
+Backend: Spring Boot
+Database: MySQL
+Concepts: DSA, OOP, DBMS
+
+---
+
+🚀 What I'm Working On
+
+- Java Full Stack Development
+- DSA & problem solving
+- Building real-world projects
+
+---
+
+📫 Connect With Me
+
+"LinkedIn" (YOUR_LINKEDIN_LINK) • "GitHub" (YOUR_GITHUB_LINK)
