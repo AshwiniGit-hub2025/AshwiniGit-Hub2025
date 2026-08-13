@@ -30,4 +30,4 @@ Concepts: DSA, OOP, DBMS
 
  📫 Connect With Me
 
-[LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/ashwini-pandey-94a2a528b/)) • [GitHub](YOUR_GITHUB_LINK)
+[LinkedIn](https://www.linkedin.com/in/ashwini-pandey-94a2a528b/) • [GitHub](YOUR_GITHUB_LINK)
