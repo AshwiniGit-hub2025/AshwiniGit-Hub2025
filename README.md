@@ -11,7 +11,7 @@
 
 ---
 
-🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 Languages: Java, SQL, HTML, CSS, JavaScript
 Backend: Spring Boot
@@ -20,14 +20,14 @@ Concepts: DSA, OOP, DBMS
 
 ---
 
-🚀 What I'm Working On
+ 🚀 What I'm Working On
 
-- Java Full Stack Development
-- DSA & problem solving
-- Building real-world projects
+ Java Full Stack Development
+ DSA & problem solving
+ Building real-world projects
 
 ---
 
-📫 Connect With Me
+ 📫 Connect With Me
 
-"LinkedIn" (YOUR_LINKEDIN_LINK) • "GitHub" (YOUR_GITHUB_LINK)
+[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](YOUR_GITHUB_LINK)
